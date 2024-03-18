@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap');
+
+.shopBasket_wrapper {
+    color: #ffffff;
+    margin-right: 30px;
+}
+
+.shopBasket_icon {
+    font-size: 24px;
+}
+
+
+.header {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_balance {
+    color: #ffffff;
+    margin-left: 36%;
+}
+
+.header_title {
+    font-family: "Ojuju", sans-serif;
+    font-size: 36px;
+    color: white;
+    margin-left: 44%;
+}
+
+.activeNavLink{
+    background-color: red;
+}

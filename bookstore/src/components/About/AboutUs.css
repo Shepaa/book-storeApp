@@ -1,0 +1,25 @@
+.about-us-container {
+    padding: 40px;
+    background-color: #f0f2f5;
+    min-height: 100vh;
+}
+
+.about-us-title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.about-us-card {
+    background-color: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-us-card-title {
+    margin-bottom: 16px;
+}
+
+.about-us-card-text {
+    color: #666;
+}

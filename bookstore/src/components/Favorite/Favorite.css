@@ -1,0 +1,15 @@
+.favorite-books-container {
+    padding: 24px;
+}
+
+.favorite-books-header {
+    margin-bottom: 24px;
+}
+
+.noBook_wrapper {
+    text-align: end;
+}
+
+.noBook_title {
+    font-size: 24px;
+}

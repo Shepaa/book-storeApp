@@ -1,0 +1,14 @@
+.filter-section {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.filterBtn {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.filter-section_line {
+    border-bottom: 1px solid #0456a4;
+}
